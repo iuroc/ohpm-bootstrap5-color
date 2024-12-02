@@ -1,11 +1,12 @@
 {
     "name": "@iuroc/bootstrap5-color",
     "version": "1.0.1",
-    "description": "Please describe the basic information.",
+    "description": "来自 Bootstrap V5 的颜色方案",
     "main": "Index.ets",
-    "author": "",
+    "author": "iuroc",
     "license": "Apache-2.0",
     "packageType": "InterfaceHar",
     "dependencies": {
-    }
+    },
+    "repository": "https://github.com/iuroc/ohpm_bootstrap5_color"
 }
