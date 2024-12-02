@@ -1,0 +1,11 @@
+{
+    "name": "@iuroc/bootstrap5-color",
+    "version": "1.0.1",
+    "description": "Please describe the basic information.",
+    "main": "Index.ets",
+    "author": "",
+    "license": "Apache-2.0",
+    "packageType": "InterfaceHar",
+    "dependencies": {
+    }
+}
