@@ -6,7 +6,7 @@
   "author": "",
   "license": "",
   "dependencies": {
-    "bootstrap5-color": "file:../library"
+    "@iuroc/bootstrap5-color": "file:../library"
   },
   "devDependencies": {},
   "dynamicDependencies": {}

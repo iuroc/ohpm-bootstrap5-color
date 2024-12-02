@@ -1,5 +1,5 @@
 {
-    "name": "bootstrap5-color",
+    "name": "@iuroc/bootstrap5-color",
     "version": "1.0.1",
     "description": "来自 Bootstrap V5 的颜色方案",
     "main": "Index.ets",

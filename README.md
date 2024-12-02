@@ -8,5 +8,5 @@
 ## 安装
 
 ```bash
-ohpm install bootstrap5-color
+ohpm install @iuroc/bootstrap5-color
 ```
