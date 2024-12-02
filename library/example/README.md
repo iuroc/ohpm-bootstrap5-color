@@ -2,7 +2,6 @@
 
 ```extendtypescript
 import { BSColor } from '@iuroc/bootstrap5-color'
-import { LengthMetrics } from '@ohos.arkui.node'
 
 Button('primary')
     .backgroundColor(BSColor.primary)

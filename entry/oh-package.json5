@@ -1,13 +1,13 @@
 {
-    "name": "entry",
-    "version": "1.0.0",
-    "description": "Please describe the basic information.",
-    "main": "",
-    "author": "",
-    "license": "",
-    "dependencies": {
-        "@iuroc/bootstrap5-color": "file:../library"
-    },
-    "devDependencies": {},
-    "dynamicDependencies": {}
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "@iuroc/bootstrap5-color": "file:../library"
+  },
+  "devDependencies": {},
+  "dynamicDependencies": {}
 }

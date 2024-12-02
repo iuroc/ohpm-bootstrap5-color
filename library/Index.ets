@@ -1,5 +1,5 @@
-import { Light } from './src/main/ets/bootstrap5-color/Light'
-import { Dark } from './src/main/ets/bootstrap5-color/Dark'
+import { Light } from './src/main/ets/Light'
+import { Dark } from './src/main/ets/Dark'
 
 export { Light as BSColor }
 
