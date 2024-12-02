@@ -4,3 +4,9 @@
 
 - 参考项目：[@twbs/bootstrap](https://github.com/twbs/bootstrap)
 - Bootstrap 版本：v5.3.3
+
+## 安装
+
+```bash
+ohpm install @iuroc/bootstrap5-color
+```
