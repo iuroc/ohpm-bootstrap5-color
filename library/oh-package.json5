@@ -8,5 +8,10 @@
     "packageType": "InterfaceHar",
     "dependencies": {
     },
+    "keywords": [
+        "bootstrap",
+        "color",
+    ],
+    "homepage": "https://github.com/iuroc/ohpm_bootstrap5_color#readme",
     "repository": "https://github.com/iuroc/ohpm_bootstrap5_color"
 }
