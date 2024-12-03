@@ -9,7 +9,7 @@ export { Dark as BSDarkColor }
 
 export type BSColorNameMap = 'primary' | 'secondary' | 'success' | 'danger' | 'warning' | 'info' | 'light' | 'dark'
 
-export function getCardGroup(colorName: BSColorNameMap): Record<'font' | 'background' | 'border' | 'main', ResourceColor> {
+export function getColorGroup(colorName: BSColorNameMap): Record<'font' | 'background' | 'border' | 'main', ResourceColor> {
     switch (colorName) {
         case 'primary':
             return {
