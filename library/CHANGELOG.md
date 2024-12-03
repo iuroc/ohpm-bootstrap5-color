@@ -1,5 +1,9 @@
 # Changelog
 
+## [v1.0.5] 2024.12.3
+
+将函数名 `getCardGroup` 称纠正为 `getColorGroup`。
+
 ## [v1.0.4] 2024.12.3
 
 新增 `getCardGroup` 函数，支持根据颜色名称 `BSColorNameMap` 生成一组主题色，包含边框色、背景色、字体色和标准色。
